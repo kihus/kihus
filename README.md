@@ -1,2 +1,52 @@
-# kihus
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F7EACA&width=435&lines=Hello%2C+I'm+Bruno!%F0%9F%91%8B+;From+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%93%8C;Software+Developer%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Turning+Ideas+into+Reality+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+### Hi, I'm **Bruno Nascimento**, Software Development Student & **Future Software Developer** from Brazil
+
+
+#### 💻 Student of Systems Analysis and Development
+
+#### 🚀 Focused on Software Development and APIs
+
+#### 🎯 Seeking opportunities as Intern / Junior Developer
+
+
+## ⭐ Skill's
+
+  - C#
+  - Fast Learner
+  - React
+  - JavaScript
+  - Git/Github
+  - HTML
+  - CSS
+<p align="center">
+    <code>   
+        <img title="C#" height="35" src="images/cSharp.svg"> 
+         <img title="VisualStudio" height="35" src="images/image.png">
+         <img title="React" height="35" src="images/React-icon.svg.png">
+          <img title="JavaScript" height="35" src="images/javascript.svg">
+        <img title="GitHub" height="35" src="images/45_github-tile.e1be128b4e.svg"> 
+        <img title="Git" height="35" src="images/Git-Icon-1788C.png">
+        <img title="React" height="35" src="images/html5.svg">
+        <img title="React" height="35" src="images/css.svg">
+    </code>
+</p>
+
+
+## ⚡Status
+<div align="center">
+  <a href="https://github.com/kihus">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=kihus&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
+    />
+  </a>
+  <a href="https://github.com/kihus">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihus&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" 
+    />
+  </a>
+</div>
 
