@@ -21,16 +21,15 @@
   - HTML
   - CSS
 <p align="center">
-    <code>   
-        <img title="C#" height="35" src="images/cSharp.svg"> 
-         <img title="VisualStudio" height="35" src="images/image.png">
-         <img title="React" height="35" src="images/React-icon.svg.png">
-          <img title="JavaScript" height="35" src="images/javascript.svg">
-        <img title="GitHub" height="35" src="images/45_github-tile.e1be128b4e.svg"> 
-        <img title="Git" height="35" src="images/Git-Icon-1788C.png">
-        <img title="React" height="35" src="images/html5.svg">
-        <img title="React" height="35" src="images/css.svg">
-    </code>
+      <code><img title="C#" height="35" src="images/cSharp.svg"></code>
+      <code><img title="VisualStudio" height="35" src="images/image.png"></code>
+      <code><img title="React" height="35" src="images/React-icon.svg.png"></code>
+      <code><img title="JavaScript" height="35" src="images/javascript.svg"></code> 
+      <code><img title="GitHub" height="35" src="images/45_github-tile.e1be128b4e.svg"> </code> 
+      <code><img title="Git" height="35" src="images/Git-Icon-1788C.png"></code>
+      <code><img title="React" height="35" src="images/html5.svg"></code>
+      <code><img title="React" height="35" src="images/css.svg"></code>
+   
 </p>
 
 
