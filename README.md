@@ -4,7 +4,9 @@
 ### Hi, I'm **Bruno Nascimento**, Software Development Student & **Future Software Developer** from Brazil
 
 
-#### 💻 Student of Systems Analysis and Development
+#### 💻 Student of Systems Engineering Bachelor's Degree
+
+#### 🎓 Graduate in Systems Analysis and Development Technology
 
 #### 🚀 Focused on Software Development and APIs
 
