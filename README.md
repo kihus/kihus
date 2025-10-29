@@ -10,7 +10,7 @@
 
 #### 🚀 Focused on Software Development and APIs
 
-#### 🎯 Seeking opportunities as Intern / Junior Developer
+#### 🎯 Currently working as an **Intern**
 
 
 ## ⭐ Skill's
